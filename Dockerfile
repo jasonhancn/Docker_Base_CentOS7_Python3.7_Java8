@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="i@noobear.com"
+LABEL maintainer="hanbotao@pachiratech.com"
 ENV LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8
 # 配置系统时区
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
