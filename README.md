@@ -1,4 +1,4 @@
-# Docker_Base_CentOS7_Python3.7_Java8
+# centos7-python37-java8
 
 ## Includes
 
